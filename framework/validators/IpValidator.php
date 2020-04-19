@@ -7,7 +7,7 @@
 
 namespace yii\validators;
 
-use Yii;
+use yii\Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\Html;
 use yii\helpers\IpHelper;

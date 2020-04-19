@@ -7,7 +7,7 @@
 
 namespace yii\validators;
 
-use Yii;
+use yii\Yii;
 use yii\helpers\FileHelper;
 use yii\helpers\Html;
 use yii\helpers\Json;

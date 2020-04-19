@@ -7,7 +7,7 @@
 
 namespace yii\validators;
 
-use Yii;
+use yii\Yii;
 
 /**
  * RequiredValidator validates that the specified attribute does not have null or empty value.
